@@ -61,7 +61,7 @@ const GALLERY_IMAGES = [
 ];
 
 const REVIEWS = [
-  { text: "Pocket friendly and great taste. The Dal Bafla is a must try!", author: "Rahul Sharma", rating: 5, date: "2 days ago" },
+  { text: "Pocket friendly and great taste. The Dal Bafla is a must try!!", author: "Rahul Sharma", rating: 5, date: "2 days ago" },
   { text: "Best place for veg food & drinks on the highway. Open late night!", author: "Amit Verma", rating: 4, date: "1 week ago" },
   { text: "Good service and large portions. Perfect for family outings.", author: "Priya Singh", rating: 5, date: "3 weeks ago" },
 ];
