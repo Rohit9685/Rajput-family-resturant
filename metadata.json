@@ -1,0 +1,7 @@
+{
+  "name": "Rajput Dhaba Indore - Authentic Highway Dining",
+  "description": "Indore's most famous highway dhaba serving authentic North Indian cuisine. Open till 3 AM. Perfect for families, groups, and late-night travelers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
