@@ -20,7 +20,7 @@ import { motion, AnimatePresence } from 'motion/react';
 const PHONE_NUMBER = "09826566183";
 const WHATSAPP_NUMBER = "919826566183";
 const ADDRESS = "Agra Bombay Road, Near Toll Naka, Indore";
-const MAP_URL = `https://www.google.com/maps/search/?api=1&query=Rajput+Dhaba+Indore+Agra+Bombay+Road`;
+const MAP_URL = `https://maps.app.goo.gl/SSqS8XKfaT7NChCZ9`;
 
 const MENU_CATEGORIES = [
   {
